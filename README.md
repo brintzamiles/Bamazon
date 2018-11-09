@@ -7,7 +7,7 @@ npm install
 ```
 *Exit Node app at any time by Ctrl +C
 
-Bamazon is an Amazon-like storefront that uses MySQL. The app takes in orders from customers and deplete stock from the store's inventory. The app also has a Manager mode that allows managers to select the following from a menu:  View Products for Sale, View Low Inventory, Add to Inventory, and Add New Product
+Bamazon is an Amazon-like storefront that uses MySQL and Node.js. The app takes in orders from customers and deplete stock from the store's inventory. The app also has a Manager mode that allows managers to select the following from a menu:  View Products for Sale, View Low Inventory, Add to Inventory, and Add New Product
 
 ## Customer Mode - Purchasing
 ### Command line:  node bamazonCustomer.js
