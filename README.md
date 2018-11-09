@@ -19,8 +19,11 @@ Bamazon is an Amazon-like storefront that uses MySQL. The app takes in orders fr
 * The app shows current inventory again before prompting for a new item for purchase
 
 * Screenshot of Results (Insufficient Inventory):  
+https://github.com/brintzamiles/Bamazon/blob/master/Assets/Images/Manager%20Mode%20View%20Low%20Inventory.png
 
 * Screenshot of Results (Successful Purchase):  
+https://github.com/brintzamiles/Bamazon/blob/master/Assets/Images/Customer_Mode_Successful_Purchase.png
+
 
 ## Manager Mode
 ###  Command line:  node bamazonManager.js
@@ -29,18 +32,23 @@ Bamazon is an Amazon-like storefront that uses MySQL. The app takes in orders fr
 
 * View Products for Sale    
 ** Screenshot of Results:  
+https://github.com/brintzamiles/Bamazon/blob/master/Assets/Images/Manager%20Mode%20View%20Products%20for%20Sale.png
 
 * View Low Inventory
 ** Screenshot of Results:  
+https://github.com/brintzamiles/Bamazon/blob/master/Assets/Images/Manager%20Mode%20View%20Low%20Inventory.png
 
 * Add to Inventory
 ** Screenshot of Results:  
+https://github.com/brintzamiles/Bamazon/blob/master/Assets/Images/Manager%20Mode%20Add%20Inventory.png
 
 * Add New Product
 ** Screenshot of Results:  
+https://github.com/brintzamiles/Bamazon/blob/master/Assets/Images/Manager%20Mode%20Add%20New%20Product.png
 
 * Exit Manager Mode
 ** Screenshot of Results:  
+https://github.com/brintzamiles/Bamazon/blob/master/Assets/Images/Manager%20Mode%20Exit.png
 
 
 
